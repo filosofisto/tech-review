@@ -14,3 +14,4 @@ Objectives: Create a mind-map for technical knowledge and a github project for c
 * SOLID
 * GOF
 * Multithreading / Concurrency - (Eduardo)
+* Microservices Architecture 
