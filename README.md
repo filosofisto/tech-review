@@ -17,7 +17,13 @@ Objectives: Create a mind-map for technical knowledge and a github project for c
 * Microservices Architecture 
 
 
+## Before you start, remember these simple rules to improve your learning process
 
+* Book dedicated time for learning.
+* Ensure that no interruptions, such as messages or calls, will disturb you.
+* Stay relaxed and calm, as stress can hinder effective learning.
+* Take notes and create mind maps.
+* Stick to your learning plan and remember that developing learning habits takes time.
 
 
 ## Java / Development Books (From Revolut interview requirements)
